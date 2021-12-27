@@ -14,7 +14,9 @@ There are only 2 important files in this repository.
 
 ## How to Use
 
-To run the project locally, you can download this repo and dataset
+To run the project locally, you can download this repo and dataset.
+    
+if you want to change the dataset, there is something to note that the data type must be integer (int)
 
 ## Model Evaluation
     
